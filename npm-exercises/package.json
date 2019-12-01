@@ -1,0 +1,15 @@
+{
+  "name": "hansi",
+  "version": "1.0.0",
+  "main": "ex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "validator": "^12.1.0"
+  }
+}
